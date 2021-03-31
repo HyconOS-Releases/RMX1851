@@ -2,6 +2,10 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/RMX1851/v2.0/total.svg)](https://GitHub.com/Hycon-Releases/RMX1851/releases)
+
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/RMX1851/v1.5/total.svg)](https://GitHub.com/Hycon-Releases/RMX1851/releases)
 
 

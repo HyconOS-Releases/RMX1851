@@ -1,3 +1,7 @@
+# v2.5 Hashira
+- Switched to uclamp for better performance.
+- Implemented uclamp in kernel.
+
 # v2.0 Blizzard
 - Added CABC from Hyperteam implementation
 - Moved Realmehub to system settings

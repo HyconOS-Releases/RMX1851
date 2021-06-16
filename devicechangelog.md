@@ -1,4 +1,8 @@
-# v2.5 Aurora
+# v3.5 Sunrise
+- Initial Build with OSS vendor
+- IllusionX kernel built inline
+
+# v3.0 Aurora
 - Basic Performance tweaks.
 
 # v2.5 Hashira

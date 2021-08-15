@@ -1,3 +1,10 @@
+# v4.5 Elegant
+-Misc Changes
+
+# v4.0 Ephemeral
+- Added Moto Dolby
+- Misc Changes
+
 # v3.5 Sunrise
 - Initial Build with OSS vendor
 - IllusionX kernel built inline

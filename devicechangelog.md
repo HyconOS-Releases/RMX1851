@@ -1,3 +1,10 @@
+# v4.5.1
+- Updated Graphics, Display and Media blobs from RUI2.0
+- Fix the issue where WiFi wasn't working after flashing custom kernel
+- Added libperfmanager
+- IllusionX kernel built inline
+- CTS passed by default
+
 # v4.5 Elegant
 -Misc Changes
 
